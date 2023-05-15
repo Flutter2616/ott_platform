@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <p>
   
-  <img src="https://github.com/Flutter2616/ott_platform/assets/124335197/f1b013e4-f7a8-41c9-bc8a-57cd279762e9"height="50%" width="30%">
-  <img src="https://github.com/Flutter2616/ott_platform/assets/124335197/57b9bee0-4401-490f-b360-3931ffc82842"height="50%" width="30%">
+  <img src="https://github.com/Flutter2616/ott_platform/assets/124335197/f1b013e4-f7a8-41c9-bc8a-57cd279762e9" height="50%" width="30%">
+  <img src="https://github.com/Flutter2616/ott_platform/assets/124335197/57b9bee0-4401-490f-b360-3931ffc82842" height="50%" width="30%">
   
   </p>
